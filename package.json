@@ -1,0 +1,19 @@
+{
+  "name": "crypto-webscrapper",
+  "version": "1.0.0",
+  "description": "Web Scraping API vuilt using NodeJS cheerio and REST API",
+  "main": "webscrapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Lenka",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cli-table": "^0.3.11",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
