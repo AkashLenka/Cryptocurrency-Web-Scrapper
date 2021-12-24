@@ -1,6 +1,6 @@
 # CryptoCurrency Web Scrapper API
 
-An opensource CryptoCurrency API (currently uses worldometer only)
+An opensource CryptoCurrency API
 
 ## Output
 
